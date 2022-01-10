@@ -6,6 +6,7 @@
 *.dylib
 
 **/*
+!Makefile
 !**/*.go
 !**/go.mod
 !.gitignore
